@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: latin-1 -*-
-# Check-Host Savar Python v1
-# #Skype : Polatbay54@gmail.com
+# Check-Host 
+# #Skype : adskandemir@gmail.com
 import os
 os.system('iptables -A INPUT -s 88.119.179.10/24 -j DROP')
 os.system('iptables -A INPUT -s 5.149.253.121/24 -j DROP')
