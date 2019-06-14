@@ -1,7 +1,7 @@
 # Check Host İp Engelleme
 Komutlar 
 
-$ git clone https://github.com/xxxx
+$ Script Yukardan İndire Bilrisinz.
 
 $ chmod 777 checkhost.py
 
